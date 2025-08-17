@@ -1,6 +1,7 @@
 # **What is Artificial Intelligence(AI)?
 __________________________________________________________________________
 - **AI** (**Artificial Intelligence**) is the field of computer science focused on creating systems that can perform tasks that normally require **human intelligence** — such as **learning, reasoning, problem-solving, understanding language, recognizing patterns, and making decisions**.
+- AI is the big revolution more than the electricity in the upcoming generations.
 ###  **In simple words:**
 
 - **AI** is when a machine can think, learn, and make decisions like a human — or at least act in a smart way to achieve a goal.
@@ -59,7 +60,7 @@ Instead of giving a computer exact step-by-step instructions for everything, AI 
 - DL uses **neural networks** with many layers (deep networks) to process complex data like images, sound, and text.
 ### **Natural Language Processing(NLP)
 
-- - Understanding and generating human language.
+- Understanding and generating human language.
 ### **Computer Vision
 
 - Understanding images and voices.
